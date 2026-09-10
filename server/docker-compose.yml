@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  minecraft:
+    image: docker.io/itzg/minecraft-server:latest
+    container_name: neo-server
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+      TYPE: "MODRINTH"
+      MODRINTH_MODPACK: "/onexcraft-1.0.0.mrpack"
+      MEMORY: "6G"
+      TZ: "UTC"
+    volumes:
+      - ./data:/data:Z
+      - ./my-modpack.mrpack:/modpack/my-modpack.mrpack:ro,Z
+    restart: unless-stopped
