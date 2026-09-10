@@ -1,0 +1,13 @@
+# Build Outputs
+build/
+*.mrpack
+*.zip
+
+# Packwiz internal cache
+.packwiz/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
