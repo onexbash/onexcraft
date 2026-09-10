@@ -277,3 +277,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "cfb7ce4c2b00cedd2e61f7d345b824d6bcc1471021668d2319ee2e4079108639"
 metafile = true
+
+[[files]]
+file = "server/docker-compose.yml"
+hash = "ded3e58e6f6247e085cff88e1a7c37cc24fdc1778b99b1a89b12b4ae61122456"
