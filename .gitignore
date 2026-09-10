@@ -3,6 +3,9 @@ build/
 *.mrpack
 *.zip
 
+# Container Data (Server)
+data/
+
 # Packwiz internal cache
 .packwiz/
 

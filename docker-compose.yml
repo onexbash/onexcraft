@@ -9,7 +9,7 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "MODRINTH"
-      MODRINTH_MODPACK: "/build/onexcraft-latest.mrpack"
+      MODRINTH_MODPACK: "/modpack/onexcraft-latest.mrpack"
       MEMORY: "6G"
       TZ: "UTC"
     volumes:
