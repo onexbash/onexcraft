@@ -37,7 +37,7 @@ To play the Modpack, follow the steps below:
 - [Powah!](https://modrinth.com/mod/powah)
 ### Magic
 - [Ars Nouveau](https://modrinth.com/mod/ars-nouveau)
-- [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)
+- [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) NOTE: temporarily removed
 - [Occultism](https://modrinth.com/mod/occultism)
 - [Apotheosis](https://modrinth.com/mod/apotheosis)
 - [Apothic Attributes](https://modrinth.com/mod/apothic-attributes)
@@ -56,8 +56,8 @@ To play the Modpack, follow the steps below:
 - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
 ### Utilities & Quality of Life
-- [ExtraQuests/FTB Quests](https://modrinth.com/mod/extraquests)
-- [Better Party/FTB Teams](https://modrinth.com/mod/better-party-x-ftb-teams)
+- [ExtraQuests/FTB Quests](https://modrinth.com/mod/extraquests) NOTE: temporarily removed
+- [Better Party/FTB Teams](https://modrinth.com/mod/better-party-x-ftb-teams) NOTE: temporarily removed
 - [Vein Mining](https://modrinth.com/mod/vein-mining)
 - [Just Enough Items ](https://modrinth.com/mod/jei)
 ### Dependencies
@@ -84,4 +84,5 @@ To play the Modpack, follow the steps below:
 - [TerraBlender](https://modrinth.com/mod/terrablender)
 - [YUNG's API](https://modrinth.com/mod/yungs-api)
 - [ExtraLib](https://modrinth.com/mod/extralib)
-- [Better Party](https://modrinth.com/mod/better-party)
+- [Better Party](https://modrinth.com/mod/better-party) NOTE: temporarily removed
+- [Lithostitched](https://modrinth.com/mod/lithostitched)

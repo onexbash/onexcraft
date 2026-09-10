@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "199eb9181660d5c1785e4b1f54affecfa9f2457a1b802d731c005ff647cb9c3c"
+
+[[files]]
 file = "README.md"
-hash = "38f6732c7a17d60469fb779e981428d83f8955cd4e74c2a168bee1807c0c217f"
+hash = "5e333e4aa6b11ee0324b07977c2c871e48df6df514b70b1c0e48ab7f2b01b36b"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -42,11 +46,6 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
-metafile = true
-
-[[files]]
-file = "mods/better-party-x-ftb-teams.pw.toml"
-hash = "48b7ba5d7a77387ba9cd977ca1bb25b2425d5dd4f14b5aea5184970ffaaad6f6"
 metafile = true
 
 [[files]]
@@ -115,11 +114,6 @@ hash = "0e3823aef0911b112277c53a5b7183666b5e0b93f63fdc8074aa874ddecdc524"
 metafile = true
 
 [[files]]
-file = "mods/extraquests.pw.toml"
-hash = "8df7da11973845626bf06334ec9b7999c528bf0ad7754fd2ab38328a602e45f3"
-metafile = true
-
-[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "1faf48b7c3887b3b9ccae6999c9ebb36e9424009b8d3be5c4275aa7c0f139bcd"
 metafile = true
@@ -145,13 +139,13 @@ hash = "8c1835e4c54b3a3f5d79bcf0e3b0f25cc3113fe43c1190104a76ed5d8d839a3b"
 metafile = true
 
 [[files]]
-file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
+file = "mods/jei.pw.toml"
+hash = "36d7a7aa4d5699795131cbf7ef5e6a81c747aa1c25b1a5fb37cf6847020e5dae"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "36d7a7aa4d5699795131cbf7ef5e6a81c747aa1c25b1a5fb37cf6847020e5dae"
+file = "mods/lithostitched.pw.toml"
+hash = "e95a7c54f936eda33a548766784f806aef2195204864a79e8535ce132c94e0f1"
 metafile = true
 
 [[files]]
@@ -202,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
