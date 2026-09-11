@@ -20,11 +20,14 @@ services:
       HARDCORE: false
       # ICON: 
       ENABLE_WHITELIST: false
-      # WHITELIST: "" # comma seperated list of usernames
+      # WHITELIST: "yunginlavih" # comma seperated list of usernames
       # WHITELIST_FILE # path to a whitelist json file
       MEMORY: "6G"
       TZ: "UTC"
       LOG_LEVEL: "info" # [trace, debug, info, warn, error]
+      OPS: |
+        yunginlavih
+      EXISTING_OPS_FILE: SYNCHRONIZE
     volumes:
       - ./data:/data:Z
     restart: unless-stopped
