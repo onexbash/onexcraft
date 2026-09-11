@@ -1,5 +1,4 @@
 # Build Outputs
-build/
 *.mrpack
 *.zip
 

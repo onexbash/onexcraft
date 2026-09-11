@@ -48,7 +48,7 @@ jobs:
         run: |
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
           export PATH="$(go env GOPATH)/bin:$PATH"
-          packwiz mr export -o "onexcraft-${{ steps.version.outputs.tag }}.mrpack"
+          packwiz mr export -o "onexcraft.mrpack"
 
       - name: Create tag
         run: |
@@ -61,5 +61,5 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.version.outputs.tag }}
-          files: onexcraft-*.mrpack
+          files: onexcraft.mrpack
           generate_release_notes: true

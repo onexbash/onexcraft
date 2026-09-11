@@ -9,10 +9,9 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "MODRINTH"
-      MODRINTH_MODPACK: "/modpack/onexcraft-latest.mrpack"
+      MODRINTH_MODPACK: "https://github.com/onexbash/onexcraft/releases/latest/download/onexcraft.mrpack"
       MEMORY: "6G"
       TZ: "UTC"
     volumes:
       - ./data:/data:Z
-      - ./build/onexcraft-latest.mrpack:/modpack/onexcraft-latest.mrpack:ro,Z
     restart: unless-stopped
