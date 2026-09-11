@@ -56,10 +56,17 @@ To play the Modpack, follow the steps below:
 - [Terralith](https://modrinth.com/datapack/terralith) — Overhauls Overworld terrain and adds realistic biomes using vanilla blocks
 - [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) — Adds over 50 custom biomes across the Overworld, Nether, and End
 - [Eternal Starlight](https://modrinth.com/mod/eternal-starlight) — A dark, ambient dimension featuring unique biomes, bosses, and gear
-- [YUNG's Extras](https://modrinth.com/mod/yungs-extras) — Minor structural polish, extra ruins, and landscape features
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) — Completely redesigns vanilla villages with biome-specific architecture
 - [Dungeon Crawl](https://modrinth.com/mod/dungeoncrawl) — Generates vast, multi-floor subterranean dungeons to explore
 - [The Afterdark](https://modrinth.com/mod/the-afterdark) — A eerie dimension with unique progression, monsters, and structures
+- [YUNG's Extras](https://modrinth.com/mod/yungs-extras) — Minor structural polish, extra ruins, and landscape features
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+- [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+- [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
 
 ### Utilities & Quality of Life
 - [ExtraQuests/FTB Quests](https://modrinth.com/mod/extraquests) — In-game guidebook and questing system *(NOTE: temporarily removed)*
@@ -68,6 +75,7 @@ To play the Modpack, follow the steps below:
 - [Just Enough Items](https://modrinth.com/mod/jei) — Recipe lookup and item viewing interface
 - [Zoomify](https://modrinth.com/mod/zoomify) — Smooth and customizable camera zoom functionality
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures) — Enables connected textures and enhanced visual model features
+- [Traveler's Titles](https://modrinth.com/mod/travelers-titles) - Adds RPG-like titles when entering biomes or dimensions
 
 ### Performance Mods
 - [Sodium](https://modrinth.com/mod/sodium) — Rendering engine overhaul for massive FPS boosts
