@@ -20,78 +20,87 @@ To play the Modpack, follow the steps below:
 **Modpack Bundler:** [packwiz](https://github.com/packwiz/packwiz)
 **Modpack Launcher:** [Prism Launcher](https://prismlauncher.org/)
 **Mod Loader:** [Neoforge](https://neoforged.net/)
-
 ## Mod List
+
 ### Tech
-- [Mekanism](https://modrinth.com/mod/mekanism)
-- [Applied Energetics 2](https://modrinth.com/mod/ae2)
-- [Applied Energetics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
-- [Ender IO](https://modrinth.com/mod/enderio)
-- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)
-- [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing)
-- [Create](https://modrinth.com/mod/create)
-- [RFTools Utility](https://modrinth.com/mod/rftools-utility)
-- [RFTools Power](https://modrinth.com/mod/rftools-power)
-- [Extended Industrialization](https://modrinth.com/mod/extended-industrialization)
-- [Actually Additions](https://modrinth.com/mod/actually-additions)
-- [Powah!](https://modrinth.com/mod/powah)
+- [Mekanism](https://modrinth.com/mod/mekanism) — High-tech machinery, ore processing, and advanced energy networks
+- [Applied Energetics 2](https://modrinth.com/mod/ae2) — Digital grid-based item, fluid, and spatial storage system
+- [Applied Energetics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) — Long-range and interdimensional access to AE2 networks
+- [Ender IO](https://modrinth.com/mod/enderio) — Compact power, fluid, item, and redstone conduits alongside specialized machinery
+- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) — Retro-futuristic, tech-based multiblock machines and power grids
+- [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing) — Large-scale automated farming, animal husbandry, and resource extraction
+- [Create](https://modrinth.com/mod/create) — Kinetic engineering with gears, belts, and mechanical contraptions
+- [RFTools Utility](https://modrinth.com/mod/rftools-utility) — Redstone logic, teleportation, screen systems, and utility blocks
+- [RFTools Power](https://modrinth.com/mod/rftools-power) — High-tier energy generation and power storage blocks
+- [Extended Industrialization](https://modrinth.com/mod/extended-industrialization) — Expansion add-on for Modern Industrialization machines and tiers
+- [Actually Additions](https://modrinth.com/mod/actually-additions) — Utility-focused tech, gadgets, automation blocks, and atomic reconstruction
+- [Powah!](https://modrinth.com/mod/powah) — Modular power generation, wireless energy transfer, and energy storage solutions
+
 ### Magic
-- [Ars Nouveau](https://modrinth.com/mod/ars-nouveau)
-- [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) NOTE: temporarily removed
-- [Occultism](https://modrinth.com/mod/occultism)
-- [Apotheosis](https://modrinth.com/mod/apotheosis)
-- [Apothic Attributes](https://modrinth.com/mod/apothic-attributes)
-- [Botania](https://modrinth.com/mod/botania) TODO: Not available for V1.21.1, Search Replacement or make it work
+- [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) — Custom spellcasting, magical crafting, and minion automation
+- [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) — RPG-style spellbooks, magic armor, and elemental spells *(NOTE: temporarily removed)*
+- [Occultism](https://modrinth.com/mod/occultism) — Ritual-based demon summoning for automated mining, storage, and transport
+- [Apotheosis](https://modrinth.com/mod/apotheosis) — Overhauls enchantment, potion, spawner, and deadly boss mechanics
+- [Apothic Attributes](https://modrinth.com/mod/apothic-attributes) — Expanded entity attribute system powering modded combat and gear mechanics
+- [Botania](https://modrinth.com/mod/botania) — Natural tech mod themed around magical flora and mana manipulation *(TODO: Not available for V1.21.1, search replacement or fix)*
+
 ### Resource Generation & Storage
-- [Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture)
-- [Productive Bees](https://modrinth.com/mod/productivebees)
-- [Functional Storage](https://modrinth.com/mod/functional-storage)
-- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
-- [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage)
-- [Ender Storage](https://modrinth.com/mod/ender-storage)
+- [Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture) — Grow crops to farm ores, mob drops, and specialized materials
+- [Productive Bees](https://modrinth.com/mod/productivebees) — Breed custom bees to passively produce resources and ores
+- [Functional Storage](https://modrinth.com/mod/functional-storage) — Drawer systems for mass single-item storage and fluid tanks
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) — Upgradable wearable storage with auto-feeding, sorting, and crafting features
+- [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage) — Upgradable chests and barrels with utility modules
+- [Ender Storage](https://modrinth.com/mod/ender-storage) — Color-coded, linked Ender chests and tanks for global network transport
+
 ### World Generation, Exploration & Dimensions
-- [Terralith](https://modrinth.com/datapack/terralith)
-- [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone)
-- [Eternal Starlight](https://modrinth.com/mod/eternal-starlight)
-- [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
-- [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
+- [Terralith](https://modrinth.com/datapack/terralith) — Overhauls Overworld terrain and adds realistic biomes using vanilla blocks
+- [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) — Adds over 50 custom biomes across the Overworld, Nether, and End
+- [Eternal Starlight](https://modrinth.com/mod/eternal-starlight) — A dark, ambient dimension featuring unique biomes, bosses, and gear
+- [YUNG's Extras](https://modrinth.com/mod/yungs-extras) — Minor structural polish, extra ruins, and landscape features
+- [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) — Completely redesigns vanilla villages with biome-specific architecture
+- [Dungeon Crawl](https://modrinth.com/mod/dungeoncrawl) — Generates vast, multi-floor subterranean dungeons to explore
+- [The Afterdark](https://modrinth.com/mod/the-afterdark) — A eerie dimension with unique progression, monsters, and structures
+
 ### Utilities & Quality of Life
-- [ExtraQuests/FTB Quests](https://modrinth.com/mod/extraquests) NOTE: temporarily removed
-- [Better Party/FTB Teams](https://modrinth.com/mod/better-party-x-ftb-teams) NOTE: temporarily removed
-- [Vein Mining](https://modrinth.com/mod/vein-mining)
-- [Just Enough Items ](https://modrinth.com/mod/jei)
-- [Zoomify ](https://modrinth.com/mod/zoomify)
-- [Fusion](https://modrinth.com/mod/fusion-connected-textures) 
+- [ExtraQuests/FTB Quests](https://modrinth.com/mod/extraquests) — In-game guidebook and questing system *(NOTE: temporarily removed)*
+- [Better Party/FTB Teams](https://modrinth.com/mod/better-party-x-ftb-teams) — Player grouping, land claiming, and team progression *(NOTE: temporarily removed)*
+- [Vein Mining](https://modrinth.com/mod/vein-mining) — Mine connected ore veins or break whole trees instantly by holding a key
+- [Just Enough Items](https://modrinth.com/mod/jei) — Recipe lookup and item viewing interface
+- [Zoomify](https://modrinth.com/mod/zoomify) — Smooth and customizable camera zoom functionality
+- [Fusion](https://modrinth.com/mod/fusion-connected-textures) — Enables connected textures and enhanced visual model features
+
 ### Performance Mods
-- [Sodium](https://modrinth.com/mod/sodium)
-- [Lithium](https://modrinth.com/mod/lithium)
-- [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-- [ModernFix](https://modrinth.com/mod/modernfix)
-- [Iris Shaders](https://modrinth.com/mod/iris)
+- [Sodium](https://modrinth.com/mod/sodium) — Rendering engine overhaul for massive FPS boosts
+- [Lithium](https://modrinth.com/mod/lithium) — General server and singleplayer physics/chunk optimization
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) — Reduces RAM usage by optimizing game memory allocations
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) — Optimizes client-side immediate mode rendering (entities, HUD, text)
+- [ModernFix](https://modrinth.com/mod/modernfix) — Improves launch times, memory consumption, and engine performance
+- [Iris Shaders](https://modrinth.com/mod/iris) — Shader pack support compatible with Sodium
+- [Chunky](https://modrinth.com/plugin/chunky) — Server tool to pre-generate world chunks to prevent lag while exploring
+
 ### Dependencies
-- [Titanium](https://modrinth.com/mod/titanium)
-- [McJtyLib](https://modrinth.com/mod/mcjtylib)
-- [RFTools Base](https://modrinth.com/mod/rftools-base)
-- [Tesseract API](https://modrinth.com/mod/tesseract-api)
-- [Modern Industrialization](https://modrinth.com/mod/modern-industrialization)
-- [Patchouli](https://modrinth.com/mod/patchouli)
-- [Cloth Config API](https://modrinth.com/mod/cloth-config)
-- [Curios API](https://modrinth.com/mod/curios)
-- [Modonomicon](https://modrinth.com/mod/modonomicon)
-- [Geckolib](https://modrinth.com/mod/geckolib)
-- [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
-- [Placebo](https://modrinth.com/mod/placebo)
-- [Apothic Attributes](https://modrinth.com/mod/apothic-attributes)
-- [Apothic-Spawners](https://modrinth.com/mod/apothic-spawners)
-- [Apothic-Enchanting](https://modrinth.com/mod/apothic-enchanting)
-- [Cucumber Library](https://modrinth.com/mod/cucumber)
-- [Sophisticated Core](https://modrinth.com/mod/sophisticated-core)
-- [CodeChicken Lib](https://modrinth.com/mod/codechicken-lib)
-- [CorgiLib](https://modrinth.com/mod/corgilib)
-- [Oh The Trees You'll Grow](https://modrinth.com/mod/oh-the-trees-youll-grow)
-- [TerraBlender](https://modrinth.com/mod/terrablender)
-- [YUNG's API](https://modrinth.com/mod/yungs-api)
-- [ExtraLib](https://modrinth.com/mod/extralib)
-- [Better Party](https://modrinth.com/mod/better-party) NOTE: temporarily removed
-- [Lithostitched](https://modrinth.com/mod/lithostitched)
+- [Titanium](https://modrinth.com/mod/titanium) — Core library required for Industrial Foregoing
+- [McJtyLib](https://modrinth.com/mod/mcjtylib) — Core library required for RFTools series
+- [RFTools Base](https://modrinth.com/mod/rftools-base) — Shared components and base code for RFTools modules
+- [Tesseract API](https://modrinth.com/mod/tesseract-api) — Library powering multidimensional energy, item, and fluid transfer
+- [Modern Industrialization](https://modrinth.com/mod/modern-industrialization) — Tech framework powering Extended Industrialization
+- [Patchouli](https://modrinth.com/mod/patchouli) — In-game documentation and documentation book generator
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) — In-game configuration menu framework
+- [Curios API](https://modrinth.com/mod/curios) — Flexible accessory and cosmetic equipment slot manager
+- [Modonomicon](https://modrinth.com/mod/modonomicon) — In-game questing and documentation book engine
+- [Geckolib](https://modrinth.com/mod/geckolib) — 3D entity and block animation engine
+- [SmartBrainLib](https://modrinth.com/mod/smartbrainlib) — AI behavior library for mob and NPC pathfinding
+- [Placebo](https://modrinth.com/mod/placebo) — Core library required for Shadows-of-Phaz/Apotheosis mods
+- [Apothic Attributes](https://modrinth.com/mod/apothic-attributes) — Core attribute API dependency
+- [Apothic-Spawners](https://modrinth.com/mod/apothic-spawners) — Spawner mechanics module split from Apotheosis
+- [Apothic-Enchanting](https://modrinth.com/mod/apothic-enchanting) — Enchanting system module split from Apotheosis
+- [Cucumber Library](https://modrinth.com/mod/cucumber) — Core library required for Mystical Agriculture
+- [Sophisticated Core](https://modrinth.com/mod/sophisticated-core) — Shared framework for Sophisticated Storage and Backpacks
+- [CodeChicken Lib](https://modrinth.com/mod/codechicken-lib) — Core rendering and mathematical library for Ender Storage
+- [CorgiLib](https://modrinth.com/mod/corgilib) — Utility library for mod configuration and events
+- [Oh The Trees You'll Grow](https://modrinth.com/mod/oh-the-trees-youll-grow) — Dynamic tree generation library for Oh The Biomes We've Gone
+- [TerraBlender](https://modrinth.com/mod/terrablender) — Biome injection library for custom terrain generation
+- [YUNG's API](https://modrinth.com/mod/yungs-api) — Structure generation library for YUNG's suite
+- [ExtraLib](https://modrinth.com/mod/extralib) — Utility library for ExtraQuests and associated mods
+- [Better Party](https://modrinth.com/mod/better-party) — Core team management library *(NOTE: temporarily removed)*
+- [Lithostitched](https://modrinth.com/mod/lithostitched) — Worldgen modification library for structure placement and datapacks

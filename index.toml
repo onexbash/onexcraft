@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "199eb9181660d5c1785e4b1f54affecfa9f2457a1b802d731c005ff647cb9c3c"
+hash = "51c6620d71dab00f94c8aaea3fc84c18d20c909b58fe2831eac1cd8832518384"
 
 [[files]]
 file = "README.md"
-hash = "5e333e4aa6b11ee0324b07977c2c871e48df6df514b70b1c0e48ab7f2b01b36b"
+hash = "955a297ffcb00524261b6e13ded2209aac4598fa64b04d51ee1387754a4fa382"
+
+[[files]]
+file = "docker-compose.yml"
+hash = "1a47618bb0286ea9b0c1d3267db5b3758fd355037e7101373e48e44a9ed636cb"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -54,6 +58,11 @@ hash = "51814afaeba7b70bb1b976201769ad7095a02d145cb332e1af2b5989030fbeb9"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -86,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/dungeoncrawl.pw.toml"
+hash = "ea9aa01bef9a96106305fb131a39311e0acd7682ed863e8814cf1cfd5403ac88"
 metafile = true
 
 [[files]]
@@ -299,6 +313,11 @@ hash = "6152a0d98acb52bd67ac6663fcf133dda4e005734cd0857a1af1681b874e169c"
 metafile = true
 
 [[files]]
+file = "mods/the-afterdark.pw.toml"
+hash = "79c500952f474fcba455c37f9ec62f4ed2f8222de607c8269c0fef50f4b54ad6"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "e697bd3a78edee29ae0bdfbf3cd4261dcbe4517ffb5ef84851e4cc0abcbda7e1"
 metafile = true
@@ -312,7 +331,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "cfb7ce4c2b00cedd2e61f7d345b824d6bcc1471021668d2319ee2e4079108639"
 metafile = true
-
-[[files]]
-file = "server/docker-compose.yml"
-hash = "ded3e58e6f6247e085cff88e1a7c37cc24fdc1778b99b1a89b12b4ae61122456"
