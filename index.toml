@@ -114,8 +114,18 @@ hash = "0e3823aef0911b112277c53a5b7183666b5e0b93f63fdc8074aa874ddecdc524"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "1faf48b7c3887b3b9ccae6999c9ebb36e9424009b8d3be5c4275aa7c0f139bcd"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9443e2e10833fef220311447b5e21d161f2e4d76bb07c77d28e2dc2fa8e42cd6"
 metafile = true
 
 [[files]]
@@ -129,6 +139,11 @@ hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "48b746cb623c16a8cee88ec0d7d42233d74d97b9cf92d662f121633723d50876"
+metafile = true
+
+[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
@@ -139,8 +154,18 @@ hash = "8c1835e4c54b3a3f5d79bcf0e3b0f25cc3113fe43c1190104a76ed5d8d839a3b"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "36d7a7aa4d5699795131cbf7ef5e6a81c747aa1c25b1a5fb37cf6847020e5dae"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
@@ -161,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "27b72c773eaf5141cd19da6ba5c49a8a871b3e19d745968be82c33a8bd6b8bbb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
 
 [[files]]
@@ -231,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]

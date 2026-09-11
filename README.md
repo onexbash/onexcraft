@@ -60,6 +60,15 @@ To play the Modpack, follow the steps below:
 - [Better Party/FTB Teams](https://modrinth.com/mod/better-party-x-ftb-teams) NOTE: temporarily removed
 - [Vein Mining](https://modrinth.com/mod/vein-mining)
 - [Just Enough Items ](https://modrinth.com/mod/jei)
+- [Zoomify ](https://modrinth.com/mod/zoomify)
+- [Fusion](https://modrinth.com/mod/fusion-connected-textures) 
+### Performance Mods
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [ModernFix](https://modrinth.com/mod/modernfix)
+- [Iris Shaders](https://modrinth.com/mod/iris)
 ### Dependencies
 - [Titanium](https://modrinth.com/mod/titanium)
 - [McJtyLib](https://modrinth.com/mod/mcjtylib)
