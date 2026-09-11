@@ -1,6 +1,9 @@
+# -- CI/CD Pipeline to generate Modpack File and publish Github Release -- #
 name: Release Pipeline
 
+# Workflow Trigger
 on:
+  workflow_dispatch: # Enables "Run workflow" button in Github
   push:
     branches: [main]
     paths:
@@ -17,6 +20,7 @@ concurrency:
 
 jobs:
   release:
+    # Pipeline Runner Config
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -26,10 +30,10 @@ jobs:
       - uses: actions/setup-go@v5
         with:
           go-version: 'stable'
-
+      # Install Pipeline Dependencies
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
-
+      # Calculate Version Tag
       - name: Compute next version
         id: version
         run: |
@@ -43,20 +47,20 @@ jobs:
             new="v${major}.${minor}.$((patch + 1))"
           fi
           echo "tag=$new" >> "$GITHUB_OUTPUT"
-
+      # Generate Modpack file (.mrpack)
       - name: Export mrpack
         run: |
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
           export PATH="$(go env GOPATH)/bin:$PATH"
           packwiz mr export -o "onexcraft.mrpack"
-
+      # Create Version Tag
       - name: Create tag
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git tag "${{ steps.version.outputs.tag }}"
           git push origin "${{ steps.version.outputs.tag }}"
-
+      # Create Release
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
