@@ -3,7 +3,7 @@ version: '3.8'
 services:
   minecraft:
     image: docker.io/itzg/minecraft-server:latest
-    container_name: neo-server
+    container_name: onexcraft-server
     ports:
       - "25565:25565"
     environment:
