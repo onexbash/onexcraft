@@ -60,13 +60,7 @@ To play the Modpack, follow the steps below:
 - [Dungeon Crawl](https://modrinth.com/mod/dungeoncrawl) — Generates vast, multi-floor subterranean dungeons to explore
 - [The Afterdark](https://modrinth.com/mod/the-afterdark) — A eerie dimension with unique progression, monsters, and structures
 - [YUNG's Extras](https://modrinth.com/mod/yungs-extras) — Minor structural polish, extra ruins, and landscape features
-- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
-- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
-- [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
-- [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
-- [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
-- [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
-- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+- [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) - Nether Dungeons & Bosses with powerful items
 
 ### Utilities & Quality of Life
 - [ExtraQuests/FTB Quests](https://modrinth.com/mod/extraquests) — In-game guidebook and questing system *(NOTE: temporarily removed)*
@@ -75,7 +69,7 @@ To play the Modpack, follow the steps below:
 - [Just Enough Items](https://modrinth.com/mod/jei) — Recipe lookup and item viewing interface
 - [Zoomify](https://modrinth.com/mod/zoomify) — Smooth and customizable camera zoom functionality
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures) — Enables connected textures and enhanced visual model features
-- [Traveler's Titles](https://modrinth.com/mod/travelers-titles) - Adds RPG-like titles when entering biomes or dimensions
+- [Traveler's Titles](https://modrinth.com/mod/travelers-titles) — Adds RPG-like titles when entering biomes or dimensions
 
 ### Performance Mods
 - [Sodium](https://modrinth.com/mod/sodium) — Rendering engine overhaul for massive FPS boosts
@@ -112,6 +106,7 @@ To play the Modpack, follow the steps below:
 - [ExtraLib](https://modrinth.com/mod/extralib) — Utility library for ExtraQuests and associated mods
 - [Better Party](https://modrinth.com/mod/better-party) — Core team management library *(NOTE: temporarily removed)*
 - [Lithostitched](https://modrinth.com/mod/lithostitched) — Worldgen modification library for structure placement and datapacks
+- [Lionfish-API](https://modrinth.com/mod/lionfish-api) — Required by L_Ender's Cataclysm
 
 ## Development
 ### Commands
