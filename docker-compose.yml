@@ -7,11 +7,24 @@ services:
     ports:
       - "25565:25565"
     environment:
-      EULA: "TRUE"
+      EULA: "TRUE" # Has to be "TRUE" for accepting the minecraft terms & services
+      # VERSION: "1.21.1"
+      MOTD: "Femboy Paradise" # Server Log-In message
+      # LEVEL: "world" # Use an existing world on the server (see: https://minecraft.wiki/w/Server.properties#level-name)
+      DIFFICULTY: "easy"
       TYPE: "MODRINTH"
       MODRINTH_MODPACK: "https://github.com/onexbash/onexcraft/releases/latest/download/onexcraft.mrpack"
+      RESOURCE_PACK: "https://github.com/onexbash/onexcraft/releases/download/resourcepack/PureBDcraft_64x-onexcraft.zip"
+      RESOURCE_PACK_SHA1: "" # checksum of the resource pack zip-file
+      RESOURCE_PACK_ENFORCE: "FALSE" # whether to kick players who decline the resource pack installation
+      HARDCORE: false
+      # ICON: 
+      ENABLE_WHITELIST: false
+      # WHITELIST: "" # comma seperated list of usernames
+      # WHITELIST_FILE # path to a whitelist json file
       MEMORY: "6G"
       TZ: "UTC"
+      LOG_LEVEL: "info" # [trace, debug, info, warn, error]
     volumes:
       - ./data:/data:Z
     restart: unless-stopped
