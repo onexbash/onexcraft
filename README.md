@@ -104,3 +104,21 @@ To play the Modpack, follow the steps below:
 - [ExtraLib](https://modrinth.com/mod/extralib) — Utility library for ExtraQuests and associated mods
 - [Better Party](https://modrinth.com/mod/better-party) — Core team management library *(NOTE: temporarily removed)*
 - [Lithostitched](https://modrinth.com/mod/lithostitched) — Worldgen modification library for structure placement and datapacks
+
+## Development
+### Commands
+```bash
+# Publish Resource Pack to Github Releases
+gh release create resourcepack "<path-to-resourcepack>.zip" --title "Resource Pack" --notes "Default Resource Pack for the 'onexcraft' Modpack. This is rolled out by the Server automatically, so players that join get prompted to install it. It's optional but highly recommended" --prerelease
+
+# Overwrite published Resource Pack in Github Releases
+gh release upload resourcepack "<path-to-resourcepack>.zip" --clobber
+```
+
+```bash
+# Add new Mod
+packwiz mr add "<mod-name>"
+
+# Refresh Modpack
+packwiz refresh
+```
