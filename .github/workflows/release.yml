@@ -1,26 +1,65 @@
-name: Modpack onexcraft Release Pipeline
+name: Release Pipeline
 
 on:
   push:
-    tags:
-      - 'v*'
+    branches: [main]
+    paths:
+      - 'index.toml'
+      - 'pack.toml'
+      - 'mods/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
 
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
 
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
 
+      - name: Compute next version
+        id: version
+        run: |
+          git fetch --tags
+          latest=$(git tag -l 'v*.*.*' --sort=-v:refname | head -n1)
+          if [ -z "$latest" ]; then
+            new="v1.0.0"
+          else
+            ver=${latest#v}
+            IFS='.' read -r major minor patch <<< "$ver"
+            new="v${major}.${minor}.$((patch + 1))"
+          fi
+          echo "tag=$new" >> "$GITHUB_OUTPUT"
+
       - name: Export mrpack
         run: |
-          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
-          packwiz mr export -o pack.mrpack
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+          export PATH="$(go env GOPATH)/bin:$PATH"
+          packwiz mr export -o "onexcraft-${{ steps.version.outputs.tag }}.mrpack"
+
+      - name: Create tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag "${{ steps.version.outputs.tag }}"
+          git push origin "${{ steps.version.outputs.tag }}"
 
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
-          files: pack.mrpack
+          tag_name: ${{ steps.version.outputs.tag }}
+          files: onexcraft-*.mrpack
           generate_release_notes: true
