@@ -1,6 +1,7 @@
 version: '3.8'
 
 services:
+  # -- Minecraft Server -- #
   minecraft:
     image: docker.io/itzg/minecraft-server:latest
     container_name: onexcraft-server
@@ -28,6 +29,26 @@ services:
       OPS: |
         yunginlavih
       EXISTING_OPS_FILE: SYNCHRONIZE
+      ENABLE_RCON: true
+      RCON_PASSWORD: "${RCON_PASSWORD}" # put in .env
     volumes:
       - ./data:/data:Z
+    restart: unless-stopped
+  # -- Minecraft Server Backups -- #
+  backup:
+    image: docker.io/itzg/mc-backup:latest
+    container_name: onexcraft-backup
+    depends_on:
+      - minecraft
+    environment:
+      BACKUP_METHOD: "restic"        # dedupes across the 2wk retention, way smaller than tar
+      BACKUP_INTERVAL: "4h"
+      PRUNE_BACKUPS_DAYS: "14"
+      RCON_HOST: minecraft
+      RCON_PASSWORD: "${RCON_PASSWORD}" # put in .env
+      RESTIC_PASSWORD: "${RESTIC_PASSWORD}"   # put in .env
+      INITIAL_DELAY: "2m"
+    volumes:
+      - ./data:/data:Z
+      - ./backups:/backups:Z
     restart: unless-stopped
