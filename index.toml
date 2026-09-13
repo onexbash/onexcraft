@@ -10,7 +10,7 @@ hash = "b9fa75f4188719c923b6b1eb4088c16fcf88d4e947e302c9f299a67534593fde"
 
 [[files]]
 file = "docker-compose.yml"
-hash = "27010277f4fe67998f6efbf35b9073a29b68cef6e074426edc61047d42a99392"
+hash = "22afce4836e8cfa93d14bc6e9681ddbdea2893cb02ea2fa4e358818887d34fbc"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -195,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "e95a7c54f936eda33a548766784f806aef2195204864a79e8535ce132c94e0f1"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "30552c09591d589e0e0a681b1f5c5d6e0aaf23e3eb6bbd3c8bab49e1ea9ed28d"
 metafile = true
 
 [[files]]
