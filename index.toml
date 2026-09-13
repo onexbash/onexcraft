@@ -198,11 +198,6 @@ hash = "e95a7c54f936eda33a548766784f806aef2195204864a79e8535ce132c94e0f1"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "30552c09591d589e0e0a681b1f5c5d6e0aaf23e3eb6bbd3c8bab49e1ea9ed28d"
-metafile = true
-
-[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "28f46d68adde7667d778e2d6a31c4fe3834d1d7a93ec5059937da3f667956ebe"
 metafile = true
