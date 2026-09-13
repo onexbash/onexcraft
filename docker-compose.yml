@@ -16,6 +16,7 @@ services:
       TYPE: "MODRINTH"
       MODRINTH_MODPACK: "https://github.com/onexbash/onexcraft/releases/latest/download/onexcraft.mrpack"
       MODRINTH_FORCE_SYNCHRONIZE: "TRUE"
+      SPAWN_PROTECTION: "0"
       RESOURCE_PACK: "https://github.com/onexbash/onexcraft/releases/download/resourcepack/PureBDcraft_64x-onexcraft.zip"
       RESOURCE_PACK_SHA1: "149c12be571b2839c1444eea952d2d612b3e3e45" # checksum of the resource pack zip-file
       RESOURCE_PACK_ENFORCE: "FALSE" # whether to kick players who decline the resource pack installation
