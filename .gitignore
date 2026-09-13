@@ -1,11 +1,13 @@
 # Environment Files
 .env*
+
 # Build Outputs
 *.mrpack
 *.zip
 
 # Container Data (Server)
 data/
+backups/
 
 # Packwiz internal cache
 .packwiz/
