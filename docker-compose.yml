@@ -32,7 +32,7 @@ services:
       ENABLE_RCON: true
       RCON_PASSWORD: "${RCON_PASSWORD}" # put in .env
     volumes:
-      - ./data:/data:Z
+      - ./data:/data:z
     restart: unless-stopped
   # -- Minecraft Server Backups -- #
   backup:
@@ -50,6 +50,6 @@ services:
       RESTIC_REPOSITORY: "/backups/restic_repo"
       INITIAL_DELAY: "2m"
     volumes:
-      - ./data:/data:Z
+      - ./data:/data:z
       - ./backups:/backups:Z
     restart: unless-stopped
