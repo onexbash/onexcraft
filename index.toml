@@ -238,16 +238,6 @@ hash = "b8c0d5c9a69b45135efd1e4a329e455d884c3378c4ebe3e0ad5794b5ddcc1414"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "fdaa22d49ee4987c2d0c012e24c7b44d50a653519767d18371e8d778c188f184"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
@@ -320,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
