@@ -20,8 +20,8 @@ To play the Modpack, follow the steps below:
 **Modpack Bundler:** [packwiz](https://github.com/packwiz/packwiz)
 **Modpack Launcher:** [Prism Launcher](https://prismlauncher.org/)
 **Mod Loader:** [Neoforge](https://neoforged.net/)
-## Mod List
 
+## Mod List
 ### Tech
 - [Mekanism](https://modrinth.com/mod/mekanism) — High-tech machinery, ore processing, and advanced energy networks
 - [Mekanism Generators](https://modrinth.com/mod/mekanism-generators)
@@ -71,6 +71,11 @@ To play the Modpack, follow the steps below:
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures) — Enables connected textures and enhanced visual model features
 - [Traveler's Titles](https://modrinth.com/mod/travelers-titles) — Adds RPG-like titles when entering biomes or dimensions
 - [Chisel Reborn](https://modrinth.com/mod/chisel-reborn) -- Adds a chisel that can be used to change the look of a block
+- [GuideME](https://modrinth.com/mod/guideme)
+- [playerAnimator](https://modrinth.com/mod/playeranimator)
+- [Tectonic](https://modrinth.com/datapack/tectonic)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 
 ### Performance Mods
 - [Sodium](https://modrinth.com/mod/sodium) — Rendering engine overhaul for massive FPS boosts
