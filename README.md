@@ -24,6 +24,8 @@ To play the Modpack, follow the steps below:
 
 ### Tech
 - [Mekanism](https://modrinth.com/mod/mekanism) — High-tech machinery, ore processing, and advanced energy networks
+- [Mekanism Generators](https://modrinth.com/mod/mekanism-generators)
+- [Mekanism Tools](https://modrinth.com/mod/mekanism-tools)
 - [Applied Energetics 2](https://modrinth.com/mod/ae2) — Digital grid-based item, fluid, and spatial storage system
 - [Applied Energetics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) — Long-range and interdimensional access to AE2 networks
 - [Ender IO](https://modrinth.com/mod/enderio) — Compact power, fluid, item, and redstone conduits alongside specialized machinery
