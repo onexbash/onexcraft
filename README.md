@@ -53,8 +53,6 @@ To play the Modpack, follow the steps below:
 - [Ender Storage](https://modrinth.com/mod/ender-storage) — Color-coded, linked Ender chests and tanks for global network transport
 
 ### World Generation, Exploration & Dimensions
-- [Terralith](https://modrinth.com/datapack/terralith) — Overhauls Overworld terrain and adds realistic biomes using vanilla blocks
-- [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) — Adds over 50 custom biomes across the Overworld, Nether, and End
 - [Eternal Starlight](https://modrinth.com/mod/eternal-starlight) — A dark, ambient dimension featuring unique biomes, bosses, and gear
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) — Completely redesigns vanilla villages with biome-specific architecture
 - [Dungeon Crawl](https://modrinth.com/mod/dungeoncrawl) — Generates vast, multi-floor subterranean dungeons to explore
@@ -70,6 +68,7 @@ To play the Modpack, follow the steps below:
 - [Zoomify](https://modrinth.com/mod/zoomify) — Smooth and customizable camera zoom functionality
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures) — Enables connected textures and enhanced visual model features
 - [Traveler's Titles](https://modrinth.com/mod/travelers-titles) — Adds RPG-like titles when entering biomes or dimensions
+- [Chisel Reborn](https://modrinth.com/mod/chisel-reborn) -- Adds a chisel that can be used to change the look of a block
 
 ### Performance Mods
 - [Sodium](https://modrinth.com/mod/sodium) — Rendering engine overhaul for massive FPS boosts
@@ -100,13 +99,14 @@ To play the Modpack, follow the steps below:
 - [Sophisticated Core](https://modrinth.com/mod/sophisticated-core) — Shared framework for Sophisticated Storage and Backpacks
 - [CodeChicken Lib](https://modrinth.com/mod/codechicken-lib) — Core rendering and mathematical library for Ender Storage
 - [CorgiLib](https://modrinth.com/mod/corgilib) — Utility library for mod configuration and events
-- [Oh The Trees You'll Grow](https://modrinth.com/mod/oh-the-trees-youll-grow) — Dynamic tree generation library for Oh The Biomes We've Gone
 - [TerraBlender](https://modrinth.com/mod/terrablender) — Biome injection library for custom terrain generation
 - [YUNG's API](https://modrinth.com/mod/yungs-api) — Structure generation library for YUNG's suite
 - [ExtraLib](https://modrinth.com/mod/extralib) — Utility library for ExtraQuests and associated mods
 - [Better Party](https://modrinth.com/mod/better-party) — Core team management library *(NOTE: temporarily removed)*
 - [Lithostitched](https://modrinth.com/mod/lithostitched) — Worldgen modification library for structure placement and datapacks
 - [Lionfish-API](https://modrinth.com/mod/lionfish-api) — Required by L_Ender's Cataclysm
+- [Cryonic Config](https://modrinth.com/mod/cryonicconfig) - Required by Chisel Reborn
+- [Architectury API](https://modrinth.com/mod/architectury-api) - Required by Chisel Reborn
 
 ## Development
 ### Commands

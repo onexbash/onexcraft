@@ -6,11 +6,11 @@ hash = "51c6620d71dab00f94c8aaea3fc84c18d20c909b58fe2831eac1cd8832518384"
 
 [[files]]
 file = "README.md"
-hash = "b9fa75f4188719c923b6b1eb4088c16fcf88d4e947e302c9f299a67534593fde"
+hash = "434dbe321a5f878e46f5ba091a9f4a60a58dc9591165a58cfa67a7602c48c63a"
 
 [[files]]
 file = "docker-compose.yml"
-hash = "22afce4836e8cfa93d14bc6e9681ddbdea2893cb02ea2fa4e358818887d34fbc"
+hash = "1567862e7d4414fa1404c144d26e1782021e7fdfa08950bd77a3cec07ae50a84"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -48,6 +48,11 @@ hash = "0b00e3fcc86a4ab7744269fc576bb23180a29dc0e44954511907a8b5386e3f53"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
 metafile = true
@@ -55,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/better-party.pw.toml"
 hash = "51814afaeba7b70bb1b976201769ad7095a02d145cb332e1af2b5989030fbeb9"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "0752ec9f3ef57c06a49813e1d1d1d442a124b3a7586bd232003055dc343a317f"
 metafile = true
 
 [[files]]
@@ -80,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
 metafile = true
 
 [[files]]
