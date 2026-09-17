@@ -76,6 +76,7 @@ To play the Modpack, follow the steps below:
 - [Tectonic](https://modrinth.com/datapack/tectonic)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+- [DimStorage](https://modrinth.com/mod/dimstorage) - Dimensional Storages
 
 ### Performance Mods
 - [Sodium](https://modrinth.com/mod/sodium) — Rendering engine overhaul for massive FPS boosts
@@ -114,6 +115,7 @@ To play the Modpack, follow the steps below:
 - [Lionfish-API](https://modrinth.com/mod/lionfish-api) — Required by L_Ender's Cataclysm
 - [Cryonic Config](https://modrinth.com/mod/cryonicconfig) - Required by Chisel Reborn
 - [Architectury API](https://modrinth.com/mod/architectury-api) - Required by Chisel Reborn
+- [EdivadLib](https://modrinth.com/mod/edivadlib) - Required by DimStorage
 
 ## Development
 ### Commands

@@ -6,11 +6,11 @@ hash = "51c6620d71dab00f94c8aaea3fc84c18d20c909b58fe2831eac1cd8832518384"
 
 [[files]]
 file = "README.md"
-hash = "7854ebc94489dd40e9decaaceab7318d84d3a86713acb2f8f6995685852a4c8b"
+hash = "adb6e0fdec71450110e6f66f8a59cec87af928894159041a81384f7284a4ad29"
 
 [[files]]
 file = "docker-compose.yml"
-hash = "1567862e7d4414fa1404c144d26e1782021e7fdfa08950bd77a3cec07ae50a84"
+hash = "c300c31b7aff1101c075705e5c31b152b1aa94f2e1fe79024478e8f7212f4afe"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -113,8 +113,18 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/dimstorage.pw.toml"
+hash = "ad2c128bd12be36dad8cde2bed5c7166979bf0552e4001d12ca2b7b6361ba07b"
+metafile = true
+
+[[files]]
 file = "mods/dungeoncrawl.pw.toml"
 hash = "ea9aa01bef9a96106305fb131a39311e0acd7682ed863e8814cf1cfd5403ac88"
+metafile = true
+
+[[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
 metafile = true
 
 [[files]]
