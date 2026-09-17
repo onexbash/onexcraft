@@ -21,6 +21,12 @@ services:
       RESOURCE_PACK_SHA1: "149c12be571b2839c1444eea952d2d612b3e3e45" # checksum of the resource pack zip-file
       RESOURCE_PACK_ENFORCE: "FALSE" # whether to kick players who decline the resource pack installation
       HARDCORE: false
+      ALLOW_FLIGHT: "true"
+      VIEW_DISTANCE: "16"
+      SIMULATION_DISTANCE: "8"
+      MAX_PLAYERS: "10"
+      PVP: "false"
+      OVERRIDE_SERVER_PROPERTIES: "TRUE"
       # ICON: 
       ENABLE_WHITELIST: false
       # WHITELIST: "yunginlavih" # comma seperated list of usernames
