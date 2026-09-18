@@ -77,6 +77,8 @@ To play the Modpack, follow the steps below:
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 - [DimStorage](https://modrinth.com/mod/dimstorage) - Dimensional Storages
+- [Chunk Loaders](https://modrinth.com/mod/chunk-loaders)
+- [More Overlays Updated](https://modrinth.com/mod/more-overlays-updated) - Overlays e.g for Highlighting Searched Items
 
 ### Performance Mods
 - [Sodium](https://modrinth.com/mod/sodium) — Rendering engine overhaul for massive FPS boosts
@@ -116,6 +118,8 @@ To play the Modpack, follow the steps below:
 - [Cryonic Config](https://modrinth.com/mod/cryonicconfig) - Required by Chisel Reborn
 - [Architectury API](https://modrinth.com/mod/architectury-api) - Required by Chisel Reborn
 - [EdivadLib](https://modrinth.com/mod/edivadlib) - Required by DimStorage
+- [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) - Required by Chunk Loaders
+- [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib) - Required by Chunk Loaders
 
 ## Development
 ### Commands
