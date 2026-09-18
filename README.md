@@ -79,6 +79,7 @@ To play the Modpack, follow the steps below:
 - [DimStorage](https://modrinth.com/mod/dimstorage) - Dimensional Storages
 - [Chunk Loaders](https://modrinth.com/mod/chunk-loaders)
 - [More Overlays Updated](https://modrinth.com/mod/more-overlays-updated) - Overlays e.g for Highlighting Searched Items
+- [Elevator Mod](https://modrinth.com/mod/elevatormod)
 
 ### Performance Mods
 - [Sodium](https://modrinth.com/mod/sodium) — Rendering engine overhaul for massive FPS boosts

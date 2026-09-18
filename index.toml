@@ -6,7 +6,7 @@ hash = "51c6620d71dab00f94c8aaea3fc84c18d20c909b58fe2831eac1cd8832518384"
 
 [[files]]
 file = "README.md"
-hash = "8929070f8103a7032eda1906256f49427661e483854e71936488a17bebf58331"
+hash = "137eb5dee1d5b8b2207ed22f735c7d7d6576ea45aa18927f5450a40a67a37a8e"
 
 [[files]]
 file = "docker-compose.yml"
@@ -130,6 +130,11 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
+metafile = true
+
+[[files]]
+file = "mods/elevatormod.pw.toml"
+hash = "58a52192b85fb49a4b772cd54677f84515a2dfc26a14d54eb880ed01f1186c5a"
 metafile = true
 
 [[files]]
