@@ -36,7 +36,12 @@ services:
       LOG_LEVEL: "info" # [trace, debug, info, warn, error]
       OPS: |
         yunginlavih
-      EXISTING_OPS_FILE: SYNCHRONIZE
+        Flacko808
+        jeffreykirkst3in
+        AsianGirl_
+        maganus13
+        B4umwolle
+      EXISTING_OPS_FILE: MERGE
       ENABLE_RCON: true
       RCON_PASSWORD: "${RCON_PASSWORD}" # put in .env
     volumes:
